@@ -124,4 +124,8 @@ public class TestGame extends TestCase {
         g.add(1);
         assertEquals(270, g.score());
     }
+
+    public void testGitCommit() {
+        System.out.println("Say Hello...");
+    }
 }
